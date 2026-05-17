@@ -4880,12 +4880,12 @@ Leo Wattenberg, Septembre 2024 (Migration vers Transifex)</translation>
         <location filename="../../src/importexport/export/qml/Export/CustomMappingDialog.qml" line="16"/>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="355"/>
         <source>Edit mapping</source>
-        <translation>Edit mapping</translation>
+        <translation>Éditer les contrôles</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/qml/Export/CustomMappingDialog.qml" line="48"/>
         <source>Channel count</source>
-        <translation>Channel count</translation>
+        <translation>Nombre de canaux</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="19"/>
@@ -4950,7 +4950,7 @@ Leo Wattenberg, Septembre 2024 (Migration vers Transifex)</translation>
     <message>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="326"/>
         <source>Custom mapping</source>
-        <translation>Custom mapping</translation>
+        <translation>Contrôles personnalisés</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="373"/>
@@ -4981,7 +4981,7 @@ Leo Wattenberg, Septembre 2024 (Migration vers Transifex)</translation>
     <message>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="564"/>
         <source>Rendering</source>
-        <translation>Rendering</translation>
+        <translation>Rendu</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/qml/Export/ExportDialog.qml" line="574"/>
@@ -5189,17 +5189,17 @@ Recommandé - 192000</translation>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="40"/>
         <source>Export audio in loop region</source>
-        <translation>Export audio in loop region</translation>
+        <translation>Exporter l&apos;audio dans une one de boucle</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="171"/>
         <source>No loop region</source>
-        <translation>No loop region</translation>
+        <translation>Aucune zone de boucle</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="172"/>
         <source>Export audio in loop region requires a loop in the project. Please go back, create a loop and try again.</source>
-        <translation>Export audio in loop region requires a loop in the project. Please go back, create a loop and try again.</translation>
+        <translation>Exporter l&apos;audio dans une zone de boucle nécessite une boucle dans le projet. Veuillez revenir en arrière et créer une boucle.</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="183"/>
@@ -5209,7 +5209,7 @@ Recommandé - 192000</translation>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="184"/>
         <source>Export selected audio requires a selection of audio data in the project. Please return to the project, make a selection and then try again.</source>
-        <translation>Export selected audio requires a selection of audio data in the project. Please return to the project, make a selection and then try again.</translation>
+        <translation>Exporter l&apos;audio sélectionné nécessite la sélection de données audio dans le projet. Veuillez retourner au projet, effectuer une sélection, puis réessayer.</translation>
     </message>
     <message>
         <location filename="../../src/importexport/export/view/exportpreferencesmodel.cpp" line="465"/>
