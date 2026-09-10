@@ -1,0 +1,7 @@
+This directory will contain internal implementation files:
+
+- vampeffectloader.h / .cpp     - Loads individual VAMP effect plugins
+- vamppluginsscanner.h / .cpp   - Discovers available VAMP plugins  
+- vamppluginsmetareader.h / .cpp - Reads plugin metadata
+- vampparameterextractor.h / .cpp - Extracts parameter information for UI
+- vampviewlauncher.h / .cpp      - Manages VAMP effect UI views
