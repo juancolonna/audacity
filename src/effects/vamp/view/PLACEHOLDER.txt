@@ -1,0 +1,5 @@
+This directory will contain UI-related components:
+
+- QML files for Vamp effect UI
+- View models and controllers
+- UI helpers and utilities
